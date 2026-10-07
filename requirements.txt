@@ -5,5 +5,4 @@ seaborn
 scikit-learn
 jupyter
 shap
-joblib
 ipykernel
